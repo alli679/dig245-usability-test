@@ -41,3 +41,9 @@ p {
 .p-1 {
   background-color: #C6C6C6;
 }
+
+@media (max-width: 960px) {
+  .col-5 {
+    display: contents;
+  }
+}
