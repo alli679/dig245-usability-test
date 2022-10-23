@@ -15,6 +15,10 @@
   font-size: 100px;
 }
 
+#task-one-header {
+  min-height: 205px;
+}
+
 h6 {
   font-size: 24px;
   font-weight: bold;
