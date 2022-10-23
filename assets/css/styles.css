@@ -43,7 +43,7 @@ p {
 }
 
 @media (max-width: 960px) {
-  .col-5 {
+  .col-7, .col-5 {
     display: contents;
   }
 }
