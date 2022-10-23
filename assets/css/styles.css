@@ -4,6 +4,14 @@
   background-color: #F5C518;
 }
 
+#site-name {
+  font-family: 'Inria Sans', sans-serif;
+}
+
+#usability-test {
+  font-family: 'Inria Sans', sans-serif;
+}
+
 p {
   font-family: 'Roboto', sans-serif;
 }
