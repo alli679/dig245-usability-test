@@ -69,11 +69,11 @@ p {
 }
 
 @media (max-width: 540px) {
-  h6 {
-    font-size: 30px;
+  h3 {
+    font-size: 64px;
   }
 
-  h4 {
-    font-size: 20px;
+  h1 {
+    font-size: 80px;
   }
 }
