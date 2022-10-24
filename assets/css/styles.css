@@ -5,6 +5,10 @@
   padding: 7.5% 0px;
 }
 
+.col-5 {
+  padding: 3.5% 0px;
+}
+
 #site-name {
   font-family: 'Inria Sans', sans-serif;
   font-size: 80px;
