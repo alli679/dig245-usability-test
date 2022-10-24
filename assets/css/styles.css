@@ -67,3 +67,13 @@ p {
     display: contents;
   }
 }
+
+@media (max-width: 540px) {
+  h6 {
+    font-size: 30px;
+  }
+
+  h4 {
+    font-size: 20px;
+  }
+}
