@@ -8,6 +8,14 @@
 #site-name {
   font-family: 'Inria Sans', sans-serif;
   font-size: 80px;
+  display: inline-block;
+}
+
+#link-icon {
+  width: 5%;
+  height: auto;
+  display: inline-block;
+  vertical-align: top;
 }
 
 #usability-test {
