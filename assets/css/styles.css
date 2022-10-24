@@ -9,6 +9,11 @@
   padding: 3.5% 0px;
 }
 
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
 h3 {
   font-family: 'Inria Sans', sans-serif;
   font-size: 80px;
